@@ -1,2 +1,5 @@
 libmlt7: no-symbols-control-file usr/lib/*/libmlt-*.so.*
 libmlt7: package-name-doesnt-match-sonames libmlt-7-7
+libmlt7: spelling-error-in-binary Unkown Unknown [usr/lib/*/mlt-7/libmltglaxnimate.so]
+libmlt7: spelling-error-in-binary Unkown Unknown [usr/lib/x86_64-linux-gnu/mlt-7/libmltglaxnimate-qt6.so]
+libmlt7: spelling-error-in-binary wtH with [usr/lib/x86_64-linux-gnu/mlt-7/libmltmovit.so]

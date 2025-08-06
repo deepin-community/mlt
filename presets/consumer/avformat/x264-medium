@@ -5,9 +5,9 @@ ab=256k
 
 vcodec=libx264
 threads=0
-vpre=medium
 preset=medium
 vprofile=high
+crf=18
 
 movflags=+faststart
 
